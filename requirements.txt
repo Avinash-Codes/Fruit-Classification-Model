@@ -1,0 +1,6 @@
+onnxruntime
+numpy
+scipy
+torchvision
+pillow
+pytest
